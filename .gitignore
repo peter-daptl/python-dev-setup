@@ -7,7 +7,7 @@ coverage*
 .DS_Store
 *ipynb*
 .idea/
-integration_tests/report/
+
 
 *.db
 default
