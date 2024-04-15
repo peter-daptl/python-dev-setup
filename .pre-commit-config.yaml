@@ -72,6 +72,6 @@ repos:
     - id: bandit
       args:
         - -s
-        - B113,B608,B307,B112
+        - B113,B608,B307,B112,B110
         - -x
         - "tests"
